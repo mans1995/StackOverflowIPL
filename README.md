@@ -14,4 +14,4 @@ Just replace:
 - databasename in the [database file](projet.sql)
 - username in the [database file](projet.sql)
 
- by the values you want concerning how you named your databases and where you located them.
+ by the values you want depending on how you named your databases and where you located them.
