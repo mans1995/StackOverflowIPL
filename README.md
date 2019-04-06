@@ -1,6 +1,6 @@
 # StackOverflowIPL
 
-Command-line-based Stack-Overflow-like Java application.
+Command-line-based Stack-Overflow-like Java application made in a group of two people.
 
 Just replace:
 - username1 in [the Admin Application class](StackOverflowIPL_Admin/src/body/Application.java)
